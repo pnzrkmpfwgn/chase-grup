@@ -11,6 +11,7 @@ yarn dev
 ```
 
 ### NOTE
+OH MY GOD! I am beyond stupid I not only using conditionals and react hooks incorrectly, I was trying to import react hooks from next!!
 [LEGACY]:This note means nothing because I am f*cking stupid, I am just leaving this here to remind myself that I am one (stupid). I realize that I was using hooks before a condition [can't do this!]
 
 
